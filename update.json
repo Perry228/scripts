@@ -1,6 +1,4 @@
 {
-	"globalversion1": 0,
-	"globalversion2": 6,
-	"globalversion3": 2,
-	"update": "test"
+	"latest": "0.0.1",
+	"updateurl": "https://github.com/Perry228/scripts/raw/refs/heads/main/ac.luac"
 }
